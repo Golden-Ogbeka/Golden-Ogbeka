@@ -1,9 +1,10 @@
 - 👋 Hi, I am Golden Ogbeka
 - 👀 I’m interested in creating solutions that can help the human race.
 - 🌱 I learn everyday and try to be the best version of myself
-- 💞️ I’m looking to collaborate on any project that can help our work
+- 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: 
 Twitter- @goldenogbeka
+Email - ogbekagolden@gmail.com
 
 <!---
 Golden-Ogbeka/Golden-Ogbeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
