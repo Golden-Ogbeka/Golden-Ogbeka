@@ -1,6 +1,6 @@
 - 👋 Hi, I am Golden Ogbeka
 - 👀 I’m interested in creating solutions that can help the human race.
-- 🌱 I learn everyday and try to be the best version of myself
+- 🌱 I am a frontend devleper that uses the MERN Stack.
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: 
 Twitter- @goldenogbeka
