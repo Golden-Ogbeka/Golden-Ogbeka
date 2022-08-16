@@ -1,6 +1,6 @@
 - 👋 Hi, I am Golden Ogbeka
 - 👀 I’m interested in creating solutions that can help the human race.
-- 🌱 I am a frontend devleper that uses the MERN Stack.
+- 🌱 I am a frontend devleper that uses React, NextJS and multiple CSS frameworks.
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me: 
 Twitter- @goldenogbeka
