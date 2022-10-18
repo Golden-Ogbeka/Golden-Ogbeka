@@ -18,7 +18,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Golden-Ogbeka&layout=compact"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Golden-Ogbeka&show_icons=true&layout=compact"/>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/goldenogbeka/)
 <!---
 Golden-Ogbeka/Golden-Ogbeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
