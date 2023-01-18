@@ -15,10 +15,10 @@
 
 <br><br>
 
-[![Golden's github stats](https://github-readme-stats.vercel.app/api?username=Golden-Ogbeka)](https://github.com/Golden-Ogbeka/github-readme-stats).
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Golden-Ogbeka)](https://github.com/Golden-Ogbeka/github-readme-stats)
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Golden-Ogbeka&layout=compact"/> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Golden-Ogbeka&show_icons=true&layout=compact"/> -->
+<!-- [![Golden's github stats](https://github-readme-stats.vercel.app/api?username=Golden-Ogbeka)](https://github.com/Golden-Ogbeka/github-readme-stats). -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Golden-Ogbeka)](https://github.com/Golden-Ogbeka/github-readme-stats) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Golden-Ogbeka&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Golden-Ogbeka&show_icons=true&layout=compact"/>
 
 <!---
 Golden-Ogbeka/Golden-Ogbeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
