@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Golden Ogbeka</h1>
-<h3 align="center">Frontend Web Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 <br><br>
 
 - 🎯 I’m interested in creating solutions that can help the human race.
