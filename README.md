@@ -15,6 +15,10 @@
 
 <br><br>
 
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="goldenogbeka" data-color="#FFDD00" data-emoji="☕"  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
+<br><br>
+
 <!-- [![Golden's github stats](https://github-readme-stats.vercel.app/api?username=Golden-Ogbeka)](https://github.com/Golden-Ogbeka/github-readme-stats). -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Golden-Ogbeka)](https://github.com/Golden-Ogbeka/github-readme-stats) -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Golden-Ogbeka&layout=compact"/>
