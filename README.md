@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Golden Ogbeka</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Senior Software Engineer</h3>
 <br><br>
 
 - 🎯 I’m interested in creating solutions that can help the human race.
-- 🌐 My Website: [Golden Ogbeka](https://goldenogbeka.vercel.app/)
+- 🌐 My Website: [Golden Ogbeka](https://goldenogbeka.com/)
 - 📧 My Email: [Email](mailto:ogbekagolden@gmail.com)
 <br>
 
